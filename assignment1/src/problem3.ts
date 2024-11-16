@@ -8,7 +8,7 @@
         const count = wordArray.length
         return count
     }
-    // console.log(countWordOccurrences("i love to play cricket  because cricket is a wellknown game in the world ", "cricket"));
+    console.log(countWordOccurrences("I love typescript", "typescript"));
 
 
 
