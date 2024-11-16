@@ -1,7 +1,7 @@
 {
     //
 
-    function removeDuplicates(numArray: number[]) {
+    function removeDuplicates(numArray: number[]): number[] {
         const result = new Set(numArray)
         return [...result]
     }
